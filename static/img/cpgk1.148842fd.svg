@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_顶部下拉_产品概况_n</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_顶部下拉_产品概况_n" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g>
+            <rect id="矩形" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0" y="0" width="40" height="40"></rect>
+            <g id="分组-7" transform="translate(4.000000, 0.000000)" stroke="#0085FF" stroke-width="2">
+                <path d="M12.6124123,10.6614089 L25.7171631,4.599279 C26.0179139,4.46015461 26.3745032,4.59117871 26.5136276,4.89192951 C26.587551,5.05173257 26.587551,5.23594043 26.5136276,5.39574349 L20.4514977,18.5004943 C20.0531402,19.3616398 19.3616398,20.0531402 18.5004943,20.4514977 L5.39574349,26.5136276 C5.09499268,26.652752 4.73840339,26.5217279 4.599279,26.2209771 C4.52535566,26.0611741 4.52535566,25.8769662 4.599279,25.7171631 L10.6614089,12.6124123 C11.0597664,11.7512668 11.7512668,11.0597664 12.6124123,10.6614089 Z" id="路径-copy-2" transform="translate(15.556453, 15.556453) rotate(-315.000000) translate(-15.556453, -15.556453) "></path>
+                <path d="M0,22 L13.7450047,27.3618696 C15.1902232,27.9256434 16.7976296,27.907754 18.2299429,27.3119553 L31,22" id="路径-2" opacity="0.3" stroke-linecap="round" fill-rule="nonzero"></path>
+                <path d="M0,27 L13.7450047,32.3618696 C15.1902232,32.9256434 16.7976296,32.907754 18.2299429,32.3119553 L31,27" id="路径-2" opacity="0.3" stroke-linecap="round" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

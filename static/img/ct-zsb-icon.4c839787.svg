@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_西域马_产品明细_钻石版</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="65.5105317%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#4C74FF" offset="0%"></stop>
+            <stop stop-color="#0085FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-32.1%" y="-50.4%" width="164.3%" height="200.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="82.8866211%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#00E3AE" offset="0%"></stop>
+            <stop stop-color="#9BE15D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.83849904%" y1="18.5571811%" x2="78.6695106%" y2="77.1414702%" id="linearGradient-4">
+            <stop stop-color="#CEEAFE" offset="0%"></stop>
+            <stop stop-color="#A0D0FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="17.2343531%" y2="81.8689824%" id="linearGradient-5">
+            <stop stop-color="#CEEAFE" offset="0%"></stop>
+            <stop stop-color="#A0D0FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_西域马_产品明细_钻石版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(7.000000, 4.000000)">
+            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="64" height="64"></rect>
+            <path d="M20.3875,39.85625 L44.375,39.75 L32.8375,68.75625 L20.3875,39.85625 Z M4.05625,33.65625 L17.75,39.75 L32.46875,68.5375 L4.05625,33.65625 Z M47.225,39.69375 L60.05625,33.0625 L33.05,68.375 L47.225,39.69375 Z" id="合并形状" fill="url(#linearGradient-1)" opacity="0.5" filter="url(#filter-2)"></path>
+            <polygon id="路径" fill="url(#linearGradient-1)" points="20.3875 26.85625 44.375 26.75 32.8375 55.75625"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-3)" points="23.1375 16.94375 41.4125 17.10625 44.64375 24.16875 20.925 24.00625"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-4)" points="18.50625 23.79375 4.05625 17.75625 11.81875 11.9875 21.09375 16.78125"></polygon>
+            <path d="M4.05625,20.65625 L17.75,26.75 L32.46875,55.5375 L4.05625,20.65625 Z M47.225,26.69375 L60.05625,20.0625 L33.05,55.375 L47.225,26.69375 Z" id="形状" fill="url(#linearGradient-1)"></path>
+            <polygon id="路径" fill="url(#linearGradient-5)" points="46.95625 23.7375 43.34375 16.3 51.59375 11.7125 58.70625 17.7"></polygon>
+            <polygon id="路径" fill="#E1E9FF" points="22.8625 14.5875 19.7375 13.78125 13.8625 10.4875 20.7625 8.0125 43.3 8.0125 50.14375 10.86875 43.56875 14.05 41.35625 14.5875"></polygon>
+        </g>
+    </g>
+</svg>

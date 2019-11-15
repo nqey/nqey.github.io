@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="530px" viewBox="0 0 1920 530" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>首页-banner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="103.354583%" y1="24.6137693%" x2="50%" y2="83.745161%" id="linearGradient-1">
+            <stop stop-color="#3557C7" offset="0%"></stop>
+            <stop stop-color="#182C96" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页-banner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#02081B" fill-rule="nonzero" x="0" y="0" width="1920" height="753.382138"></rect>
+        <polygon id="矩形" fill="url(#linearGradient-1)" fill-rule="nonzero" points="953 425.132038 953 -0.427944031 1920 -1.44854388 1920 529.361538 1171.59718 530.382138"></polygon>
+    </g>
+</svg>

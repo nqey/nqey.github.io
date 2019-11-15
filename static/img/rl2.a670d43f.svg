@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_顶部下拉_睿灵_h</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#00E3AE" offset="0%"></stop>
+            <stop stop-color="#9BE15D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#4C74FF" offset="0%"></stop>
+            <stop stop-color="#0085FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-128.2%" y="-128.2%" width="356.5%" height="356.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="icon_顶部下拉_睿灵_h" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0" y="0" width="40" height="40"></rect>
+            <path d="M31.4769531,23 L31.4769531,14 L22.3578125,14 L22.3578125,12 L33.4769531,12 L33.4769531,23 L31.4769531,23 Z M24,30.4769531 L24,32.4769531 L13,32.4769531 L13,21.3578125 L15,21.3578125 L15,30.4769531 L24,30.4769531 Z" id="合并形状" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.3"></path>
+            <path d="M8,7 L8,20.3578125 L21.3578125,20.3578125 L21.3578125,7 L8,7 Z" id="路径-copy-2" stroke="url(#linearGradient-2)" stroke-width="2"></path>
+            <path d="M25,24 L25,31.3578125 L32.3578125,31.3578125 L32.3578125,24 L25,24 Z" id="路径-copy-3" stroke="url(#linearGradient-1)" stroke-width="2"></path>
+            <path d="M25,24 L25,31.3578125 L32.3578125,31.3578125 L32.3578125,24 L25,24 Z" id="路径-copy-3" stroke="url(#linearGradient-1)" stroke-width="2" filter="url(#filter-3)"></path>
+        </g>
+    </g>
+</svg>

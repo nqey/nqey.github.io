@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_顶部下拉_赤兔_h</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#00E3AE" offset="0%"></stop>
+            <stop stop-color="#9BE15D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#4C74FF" offset="0%"></stop>
+            <stop stop-color="#0085FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-100.0%" y="-100.0%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="icon_顶部下拉_赤兔_h" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0" y="0" width="40" height="40"></rect>
+            <ellipse id="椭圆形" stroke="url(#linearGradient-1)" stroke-width="2" opacity="0.309593564" cx="20" cy="33" rx="11" ry="3"></ellipse>
+            <path d="M20.375,32.5762803 C27.3109104,25.4778818 30.75,19.8526811 30.75,15.8254836 C30.75,9.69283647 26.1754931,5 20.375,5 C14.5745069,5 10,9.69283647 10,15.8254836 C10,19.8526811 13.4390896,25.4778818 20.375,32.5762803 Z" id="路径-copy" stroke="url(#linearGradient-2)" stroke-width="2"></path>
+            <circle id="椭圆形-copy" stroke="url(#linearGradient-1)" stroke-width="2" cx="20" cy="15" r="4"></circle>
+            <circle id="椭圆形-copy" stroke="url(#linearGradient-1)" stroke-width="2" filter="url(#filter-3)" cx="20.5" cy="15.5" r="6.5"></circle>
+        </g>
+    </g>
+</svg>

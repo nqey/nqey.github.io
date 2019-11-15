@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="24px" viewBox="0 0 34 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_箭头</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_箭头" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="箭头">
+            <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="34" height="24"></rect>
+            <path d="M22.5,7.5 L22.5,2.79289322 L31.7071068,12 L22.5,21.2071068 L22.5,16.5 L2.5,16.5 L2.5,7.5 L22.5,7.5 Z" id="路径" stroke="#FF8316" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

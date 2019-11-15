@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_顶部下拉_产品概况_h</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="38.7407688%" y1="36.5592562%" x2="71.637948%" y2="67.942404%" id="linearGradient-1">
+            <stop stop-color="#4C74FF" offset="0%"></stop>
+            <stop stop-color="#0085FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#00E3AE" offset="0%"></stop>
+            <stop stop-color="#9BE15D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-36.3%" y="-215.7%" width="172.6%" height="529.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="icon_顶部下拉_产品概况_h" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0" y="0" width="40" height="40"></rect>
+            <g id="分组-7" transform="translate(2.000000, 0.000000)" stroke-width="2">
+                <path d="M14.6124123,10.6614089 L27.7171631,4.599279 C28.0179139,4.46015461 28.3745032,4.59117871 28.5136276,4.89192951 C28.587551,5.05173257 28.587551,5.23594043 28.5136276,5.39574349 L22.4514977,18.5004943 C22.0531402,19.3616398 21.3616398,20.0531402 20.5004943,20.4514977 L7.39574349,26.5136276 C7.09499268,26.652752 6.73840339,26.5217279 6.599279,26.2209771 C6.52535566,26.0611741 6.52535566,25.8769662 6.599279,25.7171631 L12.6614089,12.6124123 C13.0597664,11.7512668 13.7512668,11.0597664 14.6124123,10.6614089 Z" id="路径-copy-2" stroke="url(#linearGradient-1)" transform="translate(17.556453, 15.556453) rotate(-315.000000) translate(-17.556453, -15.556453) "></path>
+                <path d="M2,22 L15.7450047,27.3618696 C17.1902232,27.9256434 18.7976296,27.907754 20.2299429,27.3119553 L33,22" id="路径-2" stroke="url(#linearGradient-2)" opacity="0.3" stroke-linecap="round" fill-rule="nonzero"></path>
+                <path d="M2,27 L15.7450047,32.3618696 C17.1902232,32.9256434 18.7976296,32.907754 20.2299429,32.3119553 L33,27" id="路径-2" stroke="url(#linearGradient-2)" stroke-linecap="round" fill-rule="nonzero"></path>
+                <path d="M0.5,27 L15.9685928,32.5018018 C17.3094932,32.9787274 18.7762641,32.9634844 20.1069633,32.4587949 L34.5,27" id="路径-2" stroke="url(#linearGradient-2)" filter="url(#filter-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
