@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_顶部下拉_赤兔_n</title>
-    <desc>Created with Sketch.</desc>
-    <g id="icon_顶部下拉_赤兔_n" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
-        <g>
-            <rect id="矩形" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0" y="0" width="40" height="40"></rect>
-            <ellipse id="椭圆形" stroke="#0085FF" stroke-width="2" opacity="0.3" cx="20" cy="33" rx="11" ry="3"></ellipse>
-            <path d="M20.375,32.5762803 C27.3109104,25.4778818 30.75,19.8526811 30.75,15.8254836 C30.75,9.69283647 26.1754931,5 20.375,5 C14.5745069,5 10,9.69283647 10,15.8254836 C10,19.8526811 13.4390896,25.4778818 20.375,32.5762803 Z" id="路径-copy" stroke="#0085FF" stroke-width="2"></path>
-            <circle id="椭圆形-copy" stroke="#0085FF" stroke-width="2" cx="20" cy="15" r="4"></circle>
-        </g>
-    </g>
-</svg>
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg"><g stroke="#0085FF" stroke-width="2" fill="none" fill-rule="evenodd" opacity=".5"><ellipse opacity=".3" cx="20" cy="33" rx="11" ry="3"/><path d="M20.375 32.576c6.936-7.098 10.375-12.723 10.375-16.75C30.75 9.692 26.175 5 20.375 5S10 9.693 10 15.825c0 4.028 3.44 9.653 10.375 16.751z"/><circle cx="20" cy="15" r="4"/></g></svg>

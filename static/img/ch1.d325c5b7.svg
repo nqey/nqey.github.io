@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_顶部下拉_沧海_n</title>
-    <desc>Created with Sketch.</desc>
-    <g id="icon_顶部下拉_沧海_n" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
-        <g>
-            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="40" height="40"></rect>
-            <path d="M3.5,8.125 L3.5,28.875 L36.5,28.875 L36.5,8.125 L3.5,8.125 Z" id="路径" stroke="#0085FF" stroke-width="2"></path>
-            <rect id="矩形" stroke="#0085FF" stroke-width="2" opacity="0.3" x="14" y="33" width="12" height="1" rx="0.2"></rect>
-            <rect id="矩形" fill="#0085FF" x="12" y="15" width="2" height="10"></rect>
-            <rect id="矩形-copy" fill="#0085FF" x="19" y="12" width="2" height="13"></rect>
-            <rect id="矩形-copy-2" fill="#0085FF" x="26" y="19" width="2" height="6"></rect>
-        </g>
-    </g>
-</svg>
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd" opacity=".5"><path d="M3.5 8.125v20.75h33V8.125h-33z" stroke="#0085FF" stroke-width="2"/><rect stroke="#0085FF" stroke-width="2" opacity=".3" x="14" y="33" width="12" height="1" rx=".2"/><path fill="#0085FF" d="M12 15h2v10h-2zm7-3h2v13h-2zm7 7h2v6h-2z"/></g></svg>
